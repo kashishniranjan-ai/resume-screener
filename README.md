@@ -1,5 +1,29 @@
 # 🧠 AI Resume Screener
 
+
+An AI-powered Resume Screening System using Sentence-BERT and Streamlit.
+
+## 🚀 Live Demo
+
+https://resume-screener-dpop9rya4wytftwaayqvd4.streamlit.app/
+
+## Features
+
+- Resume PDF upload
+- Semantic matching using Sentence-BERT
+- Match score calculation
+- Skill gap analysis
+- Bias detection
+- Streamlit web app
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Sentence Transformers
+- Scikit-learn
+- PyTorch
+
 > **Semantic resume screening powered by Sentence-BERT** — goes beyond keyword matching to understand meaning, identify skill gaps, and detect bias in job descriptions.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python)
